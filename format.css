@@ -1,0 +1,36 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.Top_nav1{
+    display: flex;
+    justify-content: space-around;
+    background-color:black;
+    padding: 5px;
+    text-align: center;
+    
+}
+.Top_nav1 a{
+    text-decoration: none;
+    text-align: center;
+}
+.a1{
+    color: orange;
+    border: 5px white;
+    padding-top: 20px;
+    font-size: 30px;
+}
+.a2{
+    color:white;
+    font-size: 30px;
+    b
+}
+.a3{
+    color: white;
+    font-size: 55px;
+    padding-top: 10px;
+}
+.Top_nava3 :hover{
+    background: aqua;
+
+}
